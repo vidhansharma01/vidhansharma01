@@ -2,6 +2,11 @@
 
 - Project Engineer at Appirio
 - Competitive Programmer
+
+##### Some of the technologies I have worked with
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+
 <!--
 **vidhansharma01/vidhansharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
