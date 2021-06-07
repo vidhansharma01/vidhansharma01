@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-- Project Engineer at Appirio
-- Competitive Programmer
+- Software Engineer at Appirio
+- Java, Spring Boot
 
 ##### Languages I use
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ##### Some of the technologies I have worked with
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring&boot)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Selenium](https://img.shields.io/badge/-Selenium-brightgreen)
 
