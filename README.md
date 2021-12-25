@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Software Engineer at Appirio
+- Software Engineer at Infosys.
 - Java, Spring Boot
 
 ##### Languages I use
