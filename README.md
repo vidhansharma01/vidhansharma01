@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Software Engineer at Infosys.
-- Java, Spring Boot
+- Software Engineer at Lululemon.
+- Java, Spring Boot, Kafka, Posrtgres, DynamoDB, AWS, Angular
 
 ##### Languages I use
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -10,7 +10,6 @@
 ##### Some of the technologies I have worked with
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring&boot)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
 <!--
 **vidhansharma01/vidhansharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
