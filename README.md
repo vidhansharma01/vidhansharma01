@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Software Engineer at Lululemon.
-- Java, Spring Boot, Kafka, Posrtgres, DynamoDB, AWS, Angular
+- Java, Spring Boot, Kafka, Postgres, DynamoDB, AWS, Angular
 
 ##### Languages I use
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
